@@ -1,0 +1,3 @@
+{
+  "AuthenticationAPI": "http://localhost:5110/api/users/authenticate"
+}
